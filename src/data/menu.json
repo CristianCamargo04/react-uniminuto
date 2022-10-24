@@ -1,0 +1,46 @@
+{
+    "menu": [
+        {
+            "id": 1, 
+            "ico": "md:mr-2 text-lg opacity-50 fas fa-building", 
+            "url": "/empresa", 
+            "name": "Empresas"
+        },
+        {
+            "id": 2, 
+            "ico": "md:mr-2 text-lg opacity-50 fas fa-handshake", 
+            "url": "/convenio", 
+            "name": "Convenios"
+        },
+        {
+            "id": 3, 
+            "ico": "md:mr-2 text-lg opacity-50 far fa-file-alt", 
+            "url": "/documento-pendiente", 
+            "name": "Documentos pendientes"
+        },
+        {
+            "id": 4, 
+            "ico": "md:mr-2 text-lg opacity-50 fas fa-user-tie", 
+            "url": "/empleado", 
+            "name": "Empleados"
+        },
+        {
+            "id": 5, 
+            "ico": "md:mr-2 text-lg opacity-50 fas fa-handshake", 
+            "url": "/tipo-convenio", 
+            "name": "Tipo convenios"
+        },
+        {
+            "id": 6, 
+            "ico": "md:mr-2 text-lg opacity-50 far fa-file-alt", 
+            "url": "/tipo-documento", 
+            "name": "Tipo documento"
+        },
+        {
+            "id": 7, 
+            "ico": "md:mr-2 text-lg opacity-50 fas fa-user-tie", 
+            "url": "/cargo", 
+            "name": "Cargos"
+        }
+    ]
+}

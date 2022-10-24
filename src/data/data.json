@@ -1,0 +1,39 @@
+{
+    "table": [
+        {
+            "id": 1,
+            "nombre":  "Cristian Camargo",
+            "doc": "1090333987",
+            "tipodoc": "Cédula de ciudadanía",
+            "cargo": "admin"
+        },
+        {
+            "id": 1,
+            "nombre":  "Cristian Camargo",
+            "doc": "1090333987",
+            "tipodoc": "Cédula de ciudadanía",
+            "cargo": "admin"
+        },
+        {
+            "id": 1,
+            "nombre":  "Cristian Camargo",
+            "doc": "1090333987",
+            "tipodoc": "Cédula de ciudadanía",
+            "cargo": "admin"
+        },
+        {
+            "id": 1,
+            "nombre":  "Cristian Camargo",
+            "doc": "1090333987",
+            "tipodoc": "Cédula de ciudadanía",
+            "cargo": "admin"
+        },
+        {
+            "id": 1,
+            "nombre":  "Cristian Camargo",
+            "doc": "1090333987",
+            "tipodoc": "Cédula de ciudadanía",
+            "cargo": "admin"
+        }
+    ]
+}
